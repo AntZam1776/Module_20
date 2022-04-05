@@ -1,4 +1,3 @@
-# Module_20
 
 # Creating SmartContracts in Remix Ethereum IDE
 
